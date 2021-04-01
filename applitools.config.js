@@ -19,8 +19,8 @@ module.exports = {
   puppeteerOptions: {
     // headless: false,
     // devtools: true,
-    args: isDocker()
-      ? ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
-      : []
+//    args: isDocker()
+//      ? ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
+//      : []
   }
 };
