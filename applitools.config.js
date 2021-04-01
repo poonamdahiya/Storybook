@@ -6,7 +6,7 @@ module.exports = {
   batchName: "Storybook testkit",
   browser: [
     // { width: 800, height: 600, name: "chrome" },
-    // { width: 800, height: 600, name: "firefox" },
+     { width: 800, height: 600, name: "firefox" },
     // {width: 800, height: 600, name: 'edge'},
     // {width: 800, height: 600, name: 'ie11'},
      { width: 1200, height: 800, name: "chrome" }
