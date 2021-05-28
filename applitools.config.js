@@ -24,5 +24,5 @@ module.exports = {
       : []
   },
 
-  batchId: process.env.APPLITOOLS_BATCH_ID,
+  batchId: '7e8c92d6cc31882799d9b870436f259f28298581'
 };
