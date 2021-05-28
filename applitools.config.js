@@ -22,5 +22,7 @@ module.exports = {
     args: isDocker()
       ? ["--no-sandbox", "--disable-setuid-sandbox", "--disable-dev-shm-usage"]
       : []
-  }
+  },
+
+  batchId: process.env.APPLITOOLS_BATCH_ID,
 };
