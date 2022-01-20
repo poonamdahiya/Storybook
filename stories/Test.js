@@ -3,7 +3,7 @@ import React from "react";
 export default function Test({ index }) {
   return (
     <React.Fragment>
-      <div className="blue">We've met already, I'm Green {index}</div>
+      <div className="blue">We've met already, I'm Green New One {index}</div>
       <div className="font-zilla" style={{ fontSize: 36 }}>
         This is Zilla Slab font
       </div>
