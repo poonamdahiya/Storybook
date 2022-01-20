@@ -15,7 +15,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@applitools/eyes-storybook": "^3.10.1",
+    "@applitools/eyes-storybook": "^3.27.2",
     "is-docker": "^2.1.1",
     "why-is-node-running": "^2.1.2"
   },
