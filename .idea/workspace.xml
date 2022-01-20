@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f84f5e0b-aedf-4bc2-a636-b0f842885c9e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="FeatureB" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pdgRYWgJqrUJJfxfVcxT1ri8sR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8.0_242" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f84f5e0b-aedf-4bc2-a636-b0f842885c9e" name="Default Changelist" comment="" />
+      <created>1615518373274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615518373274</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="248" key="NewModule_or_Project.wizard" timestamp="1642666880819">
+      <screen x="0" y="23" width="1792" height="1050" />
+    </state>
+    <state x="508" y="248" key="NewModule_or_Project.wizard/0.23.1792.1050@0.23.1792.1050" timestamp="1642666880819" />
+    <state x="384" y="129" key="SettingsEditor" timestamp="1642666882333">
+      <screen x="0" y="23" width="1792" height="1050" />
+    </state>
+    <state x="384" y="129" key="SettingsEditor/0.23.1792.1050@0.23.1792.1050" timestamp="1642666882333" />
+    <state x="642" y="268" key="git4idea.branch.GitSmartOperationDialog" timestamp="1642662432298">
+      <screen x="0" y="23" width="1792" height="1050" />
+    </state>
+    <state x="642" y="268" key="git4idea.branch.GitSmartOperationDialog/0.23.1792.1050@0.23.1792.1050" timestamp="1642662432298" />
+    <state x="273" y="245" key="new project wizard" timestamp="1642665481246">
+      <screen x="0" y="23" width="1792" height="1050" />
+    </state>
+    <state x="273" y="245" key="new project wizard/0.23.1792.1050@0.23.1792.1050" timestamp="1642665481246" />
+  </component>
+</project>
